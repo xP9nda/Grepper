@@ -1,5 +1,7 @@
-# Grepper
+# Grepper Solutions
+Solutions submitted to the [Grepper](https://www.codegrepper.com/) [Chrome Extension](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco)
 
 <ul>
-  <li> <b>001:</b> Random Choice in List </li>
+  <li> <b>001:</b> Removing a tuple from a list </li>
+  <li> <b>002:</b> Random choice from a list </li>
 </ul>
